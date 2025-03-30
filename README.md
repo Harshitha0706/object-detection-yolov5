@@ -12,14 +12,7 @@ This project implements object detection using the **YOLOv5** model in Python. T
 - OpenCV  
 - PyTorch  
 - Pandas  
-- YOLOv5  
-
-## 📂 Installation  
-Clone this repository and install dependencies:  
-```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
-cd REPO_NAME
-pip install -r requirements.txt
+- YOLOv5
 
 ## 📚 What I Learned  
 ✅ Understanding object detection concepts and how YOLOv5 works.  
@@ -28,3 +21,13 @@ pip install -r requirements.txt
 ✅ Using OpenCV and PyTorch for image processing.  
 ✅ Running YOLOv5 for real-time object detection.  
 ✅ Uploading and managing a project on GitHub.  
+
+
+## 📂 Installation  
+Clone this repository and install dependencies:  
+```bash
+git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
+cd REPO_NAME
+pip install -r requirements.txt
+
+
