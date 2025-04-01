@@ -4,21 +4,20 @@ This project implements object detection using the **YOLOv5** model in Python. T
 
 ## 📌 Features  
 ✅ Uses YOLOv5 for real-time object detection  
-✅ Trained on a dataset of cars  
+✅ Trained on a dataset of car  
 ✅ Works with images and live video  
 
 ## 🛠 Technologies Used  
 - Python  
-- OpenCV  
-- PyTorch  
-- Pandas  
+- OpenCV    
+- Numpy  
 - YOLOv5
 
 ## 📚 What I Learned  
 ✅ Understanding object detection concepts and how YOLOv5 works.  
 ✅ Preprocessing datasets for bounding box detection.  
 ✅ Training a machine learning model for object detection.  
-✅ Using OpenCV and PyTorch for image processing.  
+✅ Using OpenCV for image processing.  
 ✅ Running YOLOv5 for real-time object detection.  
 ✅ Uploading and managing a project on GitHub.  
 
